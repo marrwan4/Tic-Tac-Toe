@@ -1,10 +1,10 @@
-#Title:
-Tic Tac Toe - Play with Friends
+Title:
+Tic Tac Toe - Play with Friend.
 
-#Description:
+Description:
 This Python project is a classic Tic Tac Toe game implementation designed for two players. Enjoy a fun and engaging experience with your friends.
 
-#Key Features:
+Key Features:
 
 Intuitive Gameplay: Make your moves by entering numbers corresponding to the board positions (1-9).
 Clear Board Display: A visually appealing board representation keeps track of the game's progress.
@@ -13,13 +13,13 @@ Play Against Friends or AI: Choose to compete with a friend or test your strateg
 Concise and Readable Code: The code adheres to good Python practices, making it easy to understand and maintain.
 Who's this for?
 
-#This project is ideal for:
+This project is ideal for:
 
 Programmers of all levels who want to practice their Python skills and build a fun, interactive game.
 Beginner coders looking for a well-structured project to grasp core programming concepts like functions, variables, conditional statements, and loops.
 Anyone who enjoys classic Tic Tac Toe and wants a digital version to play on their computer, with the added challenge of an AI opponent.
 
-#How to Play:
+How to Play:
 
 Clone or download the repository.
 Run the main.py script.
